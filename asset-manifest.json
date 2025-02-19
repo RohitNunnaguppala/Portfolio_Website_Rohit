@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Website_Rohit/static/css/main.bf538fe7.css",
+    "main.js": "/Portfolio_Website_Rohit/static/js/main.3a8cd08c.js",
+    "static/media/Me_Portfolio.png": "/Portfolio_Website_Rohit/static/media/Me_Portfolio.ec508686ff9a337cf26e.png",
+    "index.html": "/Portfolio_Website_Rohit/index.html",
+    "main.bf538fe7.css.map": "/Portfolio_Website_Rohit/static/css/main.bf538fe7.css.map",
+    "main.3a8cd08c.js.map": "/Portfolio_Website_Rohit/static/js/main.3a8cd08c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.3a8cd08c.js"
+  ]
+}
