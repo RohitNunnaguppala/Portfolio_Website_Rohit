@@ -2,6 +2,7 @@
   "name": "akshyansu-pritam-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rohitnunnaguppala.github.io/Portfolio_Website_Rohit",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@emotion/react": "^11.11.0",
